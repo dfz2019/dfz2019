@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👯 I’m looking to collaborate on some interesting open source projects
-- 🔭 I’m currently learning native cloud fundamentals
+- 🔭 I’m currently learning cloud native fundamentals
 
 <!--
 **dfz2019/dfz2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
