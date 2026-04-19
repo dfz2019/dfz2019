@@ -2,6 +2,8 @@
 
 ![xkcd standard](https://imgs.xkcd.com/comics/standards.png)
 
+ref: https://xkcd.com/927/
+
 <!--
 **dfz2019/dfz2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
